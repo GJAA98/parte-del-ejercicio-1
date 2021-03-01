@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\bin\Debug\netcoreapp3.1\Practica_numero_mayor.exe
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\bin\Debug\netcoreapp3.1\Practica_numero_mayor.deps.json
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\bin\Debug\netcoreapp3.1\Practica_numero_mayor.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\bin\Debug\netcoreapp3.1\Practica_numero_mayor.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\bin\Debug\netcoreapp3.1\Practica_numero_mayor.dll
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\bin\Debug\netcoreapp3.1\Practica_numero_mayor.pdb
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\obj\Debug\netcoreapp3.1\Practica_numero_mayor.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\obj\Debug\netcoreapp3.1\Practica_numero_mayor.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\obj\Debug\netcoreapp3.1\Practica_numero_mayor.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\obj\Debug\netcoreapp3.1\Practica_numero_mayor.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\obj\Debug\netcoreapp3.1\Practica_numero_mayor.dll
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\obj\Debug\netcoreapp3.1\Practica_numero_mayor.pdb
+C:\Users\YeisonPX\source\repos\Practica_numero_mayor\Practica_numero_mayor\obj\Debug\netcoreapp3.1\Practica_numero_mayor.genruntimeconfig.cache
